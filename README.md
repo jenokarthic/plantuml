@@ -9,4 +9,5 @@ But my turn around time is not great.  So, decided to create this repo to define
 - [ ] Add code snippet for defining Tags, Relations, etc.,  
 - [ ] Add code snippet to select required icon in sprites.  
 - [ ] Add Skin params for Class diagram & Sequence diagram to match with predefined color palette.
+- [ ] Define repeatedly used elements.
 
