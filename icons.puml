@@ -1,5 +1,7 @@
-@startuml
-
+@startuml icons
+'Icons can be found from the following url
+'https://github.com/tupadr3/plantuml-icon-font-sprites
+' Need to analyze performance impact on multiple icons importing
 
 !include <tupadr3/common>
 !include <tupadr3/devicons/angular>
